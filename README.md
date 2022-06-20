@@ -1,16 +1,24 @@
-### Hi there 👋
+## 👋 Welcome to my Github Profile!
+### My name is Roberto Peleteiro and my username is "KalimaraPeleteiro"
+A 19-year old student enthralled by the works of ML algorithms, along with all the possibilities that come with them. Always searching for new and exciting challenges to beat, aiming towards creating something that can actually help people. In my free time, I like to read about philosophy, listen to my favorite songs and study spanish.
 
-<!--
-**KalimaraPeleteiro/KalimaraPeleteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href = "mailto:kalimarapeleteiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kalimara-peleteiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-Here are some ideas to get you started:
+### My Tools
+---
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width=50 height=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width=50 height=50/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm currently learning
+---
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=50 height=50/>
+
+### I want to learn
+---
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" width=50 height=50/>
+
+### I'm currently working on
+---
+A webapp designed to receive and analyse financial operations, identifying frauds.
+
+
