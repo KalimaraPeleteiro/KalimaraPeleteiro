@@ -22,3 +22,4 @@ A 19-year old student enthralled by the works of ML algorithms, along with all t
 A webapp designed to receive and analyse financial operations, identifying frauds.
 
 
+![Snake animation](https://github.com/KalimaraPeleteiro/KalimaraPeleteiro/blob/output/github-contribution-grid-snake.svg)
