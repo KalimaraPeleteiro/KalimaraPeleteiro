@@ -11,7 +11,10 @@ A 19-year old student enthralled by the works of ML algorithms, along with all t
 
 ### I'm currently learning
 ---
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=50 height=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width=50 height=50/>
+
+
+
 
 ### I want to learn
 ---
