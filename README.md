@@ -8,14 +8,5 @@ A 19-year old student enthralled by the works of ML algorithms, along with all t
 ### My Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width=50 height=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=50 height=50/> 
 
-### I'm currently learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width=50 height=50/>
-
-
-
-
-### I want to learn
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" width=50 height=50/>
-
 
 ![Snake animation](https://github.com/KalimaraPeleteiro/KalimaraPeleteiro/blob/output/github-contribution-grid-snake.svg)
