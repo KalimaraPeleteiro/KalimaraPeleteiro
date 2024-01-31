@@ -1,12 +1,13 @@
-## 👋 Welcome to my Github Profile!
-### My name is Roberto Peleteiro and my username is "KalimaraPeleteiro"
-A 19-year old student enthralled by the works of ML algorithms, along with all the possibilities that come with them. Always searching for new and exciting challenges to beat, aiming towards creating something that can actually help people. In my free time, I like to read about philosophy, listen to my favorite songs and study spanish.
-
+## Welcome! I'm Roberto Peleteiro
 <a href = "mailto:kalimarapeleteiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kalimara-peleteiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-### My Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=50 height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width=50 height=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width=50 height=50/>
+I'm a programmer who enjoys delving into data science and machine learning, using models to construct applications that can help people.
 
-
-![Snake animation](https://github.com/KalimaraPeleteiro/KalimaraPeleteiro/blob/output/github-contribution-grid-snake.svg)
+- I've been using Python for around 04 to 05 years, and have worked with most of the most popular frameworks.
+- I've also been studying Data Science for the last 02 years, in order to make use of the most popular libraries, such as ``scikit_learn``, ``pandas`` and ``tensorflow``.
+- Right now, I'm searching to learn new languages and ecossystems, and I decided to start with Go. Probably gonna touch more on Mojo eventually also, when it gets fully released.
+- In the future, I want to learn more about Rust and C++, aside some JavaScript.
+  
+### Some of My Tools
+[![My Skills](https://skillicons.dev/icons?i=py,flask,fastapi,django,sklearn,tensorflow,go,postgres,mongodb,linux,figma,docker,postman,)](https://skillicons.dev)
