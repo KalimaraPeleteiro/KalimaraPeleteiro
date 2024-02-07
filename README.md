@@ -10,4 +10,4 @@ I'm a programmer who enjoys delving into data science and machine learning, usin
 - In the future, I want to learn more about Rust and C++, aside some JavaScript.
   
 ### Some of My Tools
-[![My Skills](https://skillicons.dev/icons?i=py,flask,fastapi,django,sklearn,tensorflow,go,postgres,mongodb,linux,figma,docker,postman,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,fastapi,django,sklearn,tensorflow,go,javascript,vue,postgres,mongodb,linux,figma,docker,postman,)](https://skillicons.dev)
