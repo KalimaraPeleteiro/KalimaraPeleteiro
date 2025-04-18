@@ -11,3 +11,6 @@ I'm a programmer who enjoys delving into data science and machine learning, usin
   
 ### Some of My Tools
 [![My Skills](https://skillicons.dev/icons?i=py,flask,fastapi,django,sklearn,tensorflow,go,javascript,vue,postgres,mongodb,linux,figma,docker,postman,)](https://skillicons.dev)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalimaraPeleteiro&hide=racket,cython,C,HTML,CSS,Fortran,SCSS,PowerShell,Less,Shell)](https://github.com/anuraghazra/github-readme-stats)
