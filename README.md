@@ -13,4 +13,4 @@ I'm a programmer who enjoys delving into data science and machine learning, usin
 [![My Skills](https://skillicons.dev/icons?i=py,flask,fastapi,django,sklearn,tensorflow,go,javascript,vue,postgres,mongodb,linux,figma,docker,postman,)](https://skillicons.dev)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalimaraPeleteiro&hide=racket,cython,C,HTML,CSS,Fortran,SCSS,PowerShell,Less,Shell,Smarty,Plpgsql,Forth,Makefile,Procfile&langs_count=20&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalimaraPeleteiro&hide=racket,cython,HTML,CSS,Fortran,SCSS,PowerShell,Less,Shell,Smarty,Plpgsql,Forth,Makefile,Procfile&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
